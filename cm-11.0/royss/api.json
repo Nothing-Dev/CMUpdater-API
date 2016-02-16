@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=16872&task=get",
+    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=16893&task=get",
     "timestamp": "1455580281",
     "api_level": "19",
-    "md5sum": "0c119fdbb53cd19783e0e07f48947d14",
-    "filename": "cm-11-20160215-UNOFFICIAL-royss",
+    "md5sum": "b250ee5297e16728451a50ad8683d13a",
+    "filename": "cm-11-20160216-UNOFFICIAL-royss",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
